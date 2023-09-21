@@ -9,4 +9,3 @@ node app.js
 
 ```
 
-:)
